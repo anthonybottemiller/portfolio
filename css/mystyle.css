@@ -1,6 +1,18 @@
 img {
   float: right;
 }
+
 h1 {
   text-align: center;
+}
+h3 {
+  font-size: 20px;
+}
+.col-md-2 {
+  margin: 10px;
+}
+.col-md-2 ol {
+  border: solid black;
+  padding: 5px;
+  list-style: none;
 }
