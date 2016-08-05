@@ -1,8 +1,8 @@
 #Portfolio
 
-####Portfolio webpage to showcase projects and myself
+#####Portfolio webpage to showcase projects and myself
 
-####By Anthony John Bottemiller
+###By Anthony John Bottemiller
 
 ##Description
 
@@ -10,17 +10,17 @@ This webpage is for showcasing my projects, experience and skills to the world.
 
 ##Requirments
 
-A modern web browser (ie: Chrome, Firefox, Edge)
+* A modern web browser (ie: Chrome, Firefox, Edge)
 
-Internet access
+* Internet access
 
 ##Technologies used
 
-HTML
+* HTML
 
-CSS
+* CSS
 
-BOOTSTRAP
+* BOOTSTRAP
 
 ##Legal
 
