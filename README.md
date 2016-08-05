@@ -8,11 +8,14 @@
 
 This webpage is for showcasing my projects, experience and skills to the world. 
 
-##Requirments
+##Requirements
 
 * A modern web browser (ie: Chrome, Firefox, Edge)
 
 * Internet access
+
+##Link
+[Click here to view](https://anthonybottemiller.github.io/portfolio/)
 
 ##Technologies used
 
