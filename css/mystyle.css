@@ -7,7 +7,6 @@ h1 {
   text-align: center;
 }
 h2 {
-  color: #4240B2;
 }
 h3 {
   font-size: 15px;
@@ -19,11 +18,9 @@ h3 {
   padding: 5px;
 }
 span {
-  color: #1814CC;
 }
 body {
-  background-color: #4AFF19;
 }
-a {
- color: #B24A12;
+ul {
+  list-style: none;
 }
